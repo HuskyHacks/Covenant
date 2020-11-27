@@ -30,3 +30,7 @@
 	path = Covenant/Data/ReferenceSourceLibraries/SharpSC
 	url = https://github.com/djhohnstein/SharpSC
         ignore = dirty
+[submodule "Covenant/Data/ReferenceSourceLibraries/InveighZero"]
+	path = Covenant/Data/ReferenceSourceLibraries/InveighZero
+	url = https://github.com/Kevin-Robertson/InveighZero.git
+	    ignore = dirty
